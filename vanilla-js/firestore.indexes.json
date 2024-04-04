@@ -4,6 +4,7 @@
       "collectionGroup": "restaurants",
       "queryScope": "COLLECTION",
       "fields": [
+        { "fieldPath": "city", "order": "ASCENDING" },
         {
           "fieldPath": "price",
           "order": "ASCENDING"
